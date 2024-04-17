@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\0408\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E42F65CE-3D90-4321-B44A-6329A5AFE3E5}|0408\\0408.vcxproj|C:\\Users\\User\\source\\repos\\0408\\0408\\introduce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E42F65CE-3D90-4321-B44A-6329A5AFE3E5}|0408\\0408.vcxproj|solutionrelative:0408\\introduce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42F65CE-3D90-4321-B44A-6329A5AFE3E5}|0408\\0408.vcxproj|C:\\Users\\User\\source\\repos\\0408\\0408\\exASCii.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E42F65CE-3D90-4321-B44A-6329A5AFE3E5}|0408\\0408.vcxproj|solutionrelative:0408\\exASCii.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42F65CE-3D90-4321-B44A-6329A5AFE3E5}|0408\\0408.vcxproj|C:\\Users\\User\\source\\repos\\0408\\0408\\review.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E42F65CE-3D90-4321-B44A-6329A5AFE3E5}|0408\\0408.vcxproj|solutionrelative:0408\\review.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42F65CE-3D90-4321-B44A-6329A5AFE3E5}|0408\\0408.vcxproj|C:\\Users\\User\\source\\repos\\0408\\0408\\operation1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E42F65CE-3D90-4321-B44A-6329A5AFE3E5}|0408\\0408.vcxproj|solutionrelative:0408\\operation1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "exASCii.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0408\\0408\\exASCii.c",
+              "RelativeDocumentMoniker": "0408\\exASCii.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0408\\0408\\exASCii.c",
+              "RelativeToolTip": "0408\\exASCii.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-08T07:28:07.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "review.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0408\\0408\\review.c",
+              "RelativeDocumentMoniker": "0408\\review.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0408\\0408\\review.c",
+              "RelativeToolTip": "0408\\review.c",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-08T07:06:38.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "operation1.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0408\\0408\\operation1.cpp",
+              "RelativeDocumentMoniker": "0408\\operation1.cpp",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0408\\0408\\operation1.cpp",
+              "RelativeToolTip": "0408\\operation1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-08T06:43:42.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "introduce.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0408\\0408\\introduce.c",
+              "RelativeDocumentMoniker": "0408\\introduce.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0408\\0408\\introduce.c",
+              "RelativeToolTip": "0408\\introduce.c",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-08T02:16:10.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
