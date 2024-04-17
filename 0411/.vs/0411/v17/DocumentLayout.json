@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\0411\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D951C97E-E7A8-464B-B666-E6843BF29874}|0411\\0411.vcxproj|C:\\Users\\User\\source\\repos\\0411\\0411\\exam.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D951C97E-E7A8-464B-B666-E6843BF29874}|0411\\0411.vcxproj|solutionrelative:0411\\exam.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D951C97E-E7A8-464B-B666-E6843BF29874}|0411\\0411.vcxproj|C:\\Users\\User\\source\\repos\\0411\\0411\\review.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D951C97E-E7A8-464B-B666-E6843BF29874}|0411\\0411.vcxproj|solutionrelative:0411\\review.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D951C97E-E7A8-464B-B666-E6843BF29874}|0411\\0411.vcxproj|C:\\Users\\User\\source\\repos\\0411\\0411\\review2\uC790\uD310\uAE30.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D951C97E-E7A8-464B-B666-E6843BF29874}|0411\\0411.vcxproj|solutionrelative:0411\\review2\uC790\uD310\uAE30.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D951C97E-E7A8-464B-B666-E6843BF29874}|0411\\0411.vcxproj|C:\\Users\\User\\source\\repos\\0411\\0411\\contiue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D951C97E-E7A8-464B-B666-E6843BF29874}|0411\\0411.vcxproj|solutionrelative:0411\\contiue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D951C97E-E7A8-464B-B666-E6843BF29874}|0411\\0411.vcxproj|C:\\Users\\User\\source\\repos\\0411\\0411\\array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D951C97E-E7A8-464B-B666-E6843BF29874}|0411\\0411.vcxproj|solutionrelative:0411\\array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D951C97E-E7A8-464B-B666-E6843BF29874}|0411\\0411.vcxproj|C:\\Users\\User\\source\\repos\\0411\\0411\\arrayexample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D951C97E-E7A8-464B-B666-E6843BF29874}|0411\\0411.vcxproj|solutionrelative:0411\\arrayexample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "exam.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0411\\0411\\exam.c",
+              "RelativeDocumentMoniker": "0411\\exam.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0411\\0411\\exam.c",
+              "RelativeToolTip": "0411\\exam.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-11T06:10:52.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "arrayexample.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0411\\0411\\arrayexample.c",
+              "RelativeDocumentMoniker": "0411\\arrayexample.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0411\\0411\\arrayexample.c",
+              "RelativeToolTip": "0411\\arrayexample.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-11T03:29:24.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "array.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0411\\0411\\array.c",
+              "RelativeDocumentMoniker": "0411\\array.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0411\\0411\\array.c",
+              "RelativeToolTip": "0411\\array.c",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-11T02:32:04.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "contiue.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0411\\0411\\contiue.c",
+              "RelativeDocumentMoniker": "0411\\contiue.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0411\\0411\\contiue.c",
+              "RelativeToolTip": "0411\\contiue.c",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-11T02:11:48.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "review2\uC790\uD310\uAE30.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0411\\0411\\review2\uC790\uD310\uAE30.c",
+              "RelativeDocumentMoniker": "0411\\review2\uC790\uD310\uAE30.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0411\\0411\\review2\uC790\uD310\uAE30.c",
+              "RelativeToolTip": "0411\\review2\uC790\uD310\uAE30.c",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-11T00:41:42.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "review.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0411\\0411\\review.c",
+              "RelativeDocumentMoniker": "0411\\review.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0411\\0411\\review.c",
+              "RelativeToolTip": "0411\\review.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-11T00:17:51.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

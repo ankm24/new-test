@@ -1,0 +1,8 @@
+﻿  백준3.c
+C:\Users\User\source\repos\0412\0412\백준3.c(11,9): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\User\source\repos\0412\0412\백준3.c(18,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\User\source\repos\0412\0412\백준3.c(18,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\User\source\repos\0412\0412\백준3.c(18,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\Users\User\source\repos\0412\0412\백준3.c(18,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\User\source\repos\0412\0412\백준3.c(15,1): error C4700: 초기화되지 않은 'max' 지역 변수를 사용했습니다.
+C:\Users\User\source\repos\0412\0412\백준3.c(16,1): error C4700: 초기화되지 않은 'min' 지역 변수를 사용했습니다.
