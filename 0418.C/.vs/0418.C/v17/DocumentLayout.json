@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\0418.C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D7BAB4-6F9A-4C74-8221-9FC0F0F62205}|0418.C\\0418.C.vcxproj|C:\\Users\\User\\source\\repos\\0418.C\\0418.C\\recursive_baekjoon.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9D7BAB4-6F9A-4C74-8221-9FC0F0F62205}|0418.C\\0418.C.vcxproj|solutionrelative:0418.C\\recursive_baekjoon.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D7BAB4-6F9A-4C74-8221-9FC0F0F62205}|0418.C\\0418.C.vcxproj|C:\\Users\\User\\source\\repos\\0418.C\\0418.C\\recursive_ex.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9D7BAB4-6F9A-4C74-8221-9FC0F0F62205}|0418.C\\0418.C.vcxproj|solutionrelative:0418.C\\recursive_ex.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D7BAB4-6F9A-4C74-8221-9FC0F0F62205}|0418.C\\0418.C.vcxproj|C:\\Users\\User\\source\\repos\\0418.C\\0418.C\\recursive\uD480\uC774.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9D7BAB4-6F9A-4C74-8221-9FC0F0F62205}|0418.C\\0418.C.vcxproj|solutionrelative:0418.C\\recursive\uD480\uC774.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D7BAB4-6F9A-4C74-8221-9FC0F0F62205}|0418.C\\0418.C.vcxproj|C:\\Users\\User\\source\\repos\\0418.C\\0418.C\\recursive_function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9D7BAB4-6F9A-4C74-8221-9FC0F0F62205}|0418.C\\0418.C.vcxproj|solutionrelative:0418.C\\recursive_function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D7BAB4-6F9A-4C74-8221-9FC0F0F62205}|0418.C\\0418.C.vcxproj|C:\\Users\\User\\source\\repos\\0418.C\\0418.C\\call_by.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9D7BAB4-6F9A-4C74-8221-9FC0F0F62205}|0418.C\\0418.C.vcxproj|solutionrelative:0418.C\\call_by.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "recursive\uD480\uC774.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0418.C\\0418.C\\recursive\uD480\uC774.c",
+              "RelativeDocumentMoniker": "0418.C\\recursive\uD480\uC774.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0418.C\\0418.C\\recursive\uD480\uC774.c",
+              "RelativeToolTip": "0418.C\\recursive\uD480\uC774.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-18T02:31:41.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "recursive_baekjoon.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0418.C\\0418.C\\recursive_baekjoon.c",
+              "RelativeDocumentMoniker": "0418.C\\recursive_baekjoon.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0418.C\\0418.C\\recursive_baekjoon.c",
+              "RelativeToolTip": "0418.C\\recursive_baekjoon.c",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-18T01:42:33.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "recursive_ex.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0418.C\\0418.C\\recursive_ex.c",
+              "RelativeDocumentMoniker": "0418.C\\recursive_ex.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0418.C\\0418.C\\recursive_ex.c",
+              "RelativeToolTip": "0418.C\\recursive_ex.c",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-18T01:30:59.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "recursive_function.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0418.C\\0418.C\\recursive_function.c",
+              "RelativeDocumentMoniker": "0418.C\\recursive_function.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0418.C\\0418.C\\recursive_function.c",
+              "RelativeToolTip": "0418.C\\recursive_function.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-18T01:14:05.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "call_by.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0418.C\\0418.C\\call_by.c",
+              "RelativeDocumentMoniker": "0418.C\\call_by.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0418.C\\0418.C\\call_by.c",
+              "RelativeToolTip": "0418.C\\call_by.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-17T23:58:33.44Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
