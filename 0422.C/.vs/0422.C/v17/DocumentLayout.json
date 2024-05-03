@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\0422.C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1D1723-14FB-4359-8F35-C970804F868C}|0422.C\\0422.C.vcxproj|C:\\Users\\User\\source\\repos\\0422.C\\0422.C\\file.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C1D1723-14FB-4359-8F35-C970804F868C}|0422.C\\0422.C.vcxproj|solutionrelative:0422.C\\file.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1D1723-14FB-4359-8F35-C970804F868C}|0422.C\\0422.C.vcxproj|C:\\Users\\User\\source\\repos\\0422.C\\0422.C\\file2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C1D1723-14FB-4359-8F35-C970804F868C}|0422.C\\0422.C.vcxproj|solutionrelative:0422.C\\file2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1D1723-14FB-4359-8F35-C970804F868C}|0422.C\\0422.C.vcxproj|C:\\Users\\User\\source\\repos\\0422.C\\0422.C\\string.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C1D1723-14FB-4359-8F35-C970804F868C}|0422.C\\0422.C.vcxproj|solutionrelative:0422.C\\string.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "file2.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0422.C\\0422.C\\file2.c",
+              "RelativeDocumentMoniker": "0422.C\\file2.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0422.C\\0422.C\\file2.c",
+              "RelativeToolTip": "0422.C\\file2.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-22T03:11:05.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "file.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0422.C\\0422.C\\file.c",
+              "RelativeDocumentMoniker": "0422.C\\file.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0422.C\\0422.C\\file.c",
+              "RelativeToolTip": "0422.C\\file.c",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-22T01:35:39.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "string.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\0422.C\\0422.C\\string.c",
+              "RelativeDocumentMoniker": "0422.C\\string.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\0422.C\\0422.C\\string.c",
+              "RelativeToolTip": "0422.C\\string.c",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-22T00:15:30.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
